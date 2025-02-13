@@ -1,0 +1,5 @@
+host=W3ZIxRFgJv63AO8zIHRmgw==
+port=YipSCnFmcrTr4k2++xWq3w==
+database=Oqd6I6vE38cE76q2nX1nIQ==
+username=LHvrDbrB8adiRpieD+uc4Q==
+password=VHJChX8NhtrU6vyIEtBEAw==

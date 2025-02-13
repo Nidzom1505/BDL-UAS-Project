@@ -1,0 +1,5 @@
+host=192.168.137.161
+port=5432
+database=TokoBangunan
+username=postgres
+password=isma111004
